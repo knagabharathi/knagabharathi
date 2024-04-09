@@ -1,6 +1,6 @@
 <h3 align="left">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm a Aspiring Data Scientist/ ML Engineer 👨🏻‍💻  from India.
 
-
+---
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning DataScience
